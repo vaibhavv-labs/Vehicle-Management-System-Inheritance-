@@ -64,7 +64,7 @@ Display using Polymorphism
 
 ## 🚀 How to Run
 
-git clone https://github.com/YOURUSERNAME/vehicle-management-system.git  
+git clone https://github.com/vaibhavv-labs/Vehicle-Management-System-Inheritance-.git  
 cd vehicle-management-system  
 python main.py  
 
@@ -89,11 +89,6 @@ vehicle-management-system/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 <div align="center">
 
