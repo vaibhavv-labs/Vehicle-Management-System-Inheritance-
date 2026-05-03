@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=5C78FF&center=true&vCenter=true&width=700&lines=Vehicle+Management+System+🚗;Built+with+Python+OOP;Inheritance+Based+Project;CLI+Application+🚀" alt="Typing SVG" />
-
-<br/>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Inheritance-FF6B6B?style=for-the-badge)
